@@ -1,7 +1,5 @@
-# Hey, my name is Regina 👋
+# Hey, my name is Regina ☆
 ### I'm a young graphic designer & 3D artist based in Barcelona. I studied press design at Escola Massana, and I'm currently studying 3D design on CEV Barcelona https://reginafausbts3dv.myportfolio.com/regina-faus.
-
-[![Uploading image.png…](https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/koocachookies_github_profile.png)](https://github.com/danigomezcev])
 
 [![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
@@ -9,7 +7,7 @@
 ![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
 [![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
 
-## Here are some of the softwares that I teach:
+## Here are some of the softwares that I know:
 
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
@@ -26,43 +24,6 @@
 [![3DSMax](https://img.shields.io/badge/Autodesk_3DS_Max-00C0D6?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNi4yLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwMCAyMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiMzNjY5N0Y7fQ0KCS5zdDF7ZmlsbDojMzdBNUNDO30NCgkuc3Qye2ZpbGw6IzdEQzZERDt9DQoJLnN0M3tmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxnIGlkPSJQcm9kdWN0cyI+DQo8L2c+DQo8ZyBpZD0iUHJvZHVjdHNfMV8iPg0KPC9nPg0KPGcgaWQ9IlByb2R1Y3RzXzJfIj4NCjwvZz4NCjxnIGlkPSJQcm9kdWN0c18zXyI+DQo8L2c+DQo8ZyBpZD0iUHJvZHVjdHNfNF8iPg0KPC9nPg0KPGcgaWQ9IlByb2R1Y3RzXzVfIj4NCjwvZz4NCjxnIGlkPSJQcm9kdWN0c182XyI+DQo8L2c+DQo8ZyBpZD0iUHJvZHVjdHNfN18iPg0KPC9nPg0KPGc+DQoJPGcgaWQ9ImY0NjEwZjY1LWJlZDMtNDgxMy1iODU5LTU4YmZmMjQyODBjYV8wMDAwMDE0NTAxNzc1MzQ2NDIzNDA5NDAxMDAwMDAwNzY4NjMxNjU3NDI5NTc1MzEzN18iPg0KCQk8cGF0aCBpZD0iYTZjMjQyYTQtMDgyYi00MzZlLThhMTktM2Q3YzkxYThjODgzXzAwMDAwMTgxMDg5Mjc4OTY1MTU4MTYxODUwMDAwMDEzMDA4MTU5NTc4NDEzMTEzNzgxXyIgY2xhc3M9InN0MCIgZD0iTTM2LjIsMA0KCQkJbDE0Mi42LDMxLjJoMTUuNFYyMDBIMzIuNWMtNS42LDAtMTAuMi00LjUtMTAuMi0xMC4ybDAsMHYtNDIuNUwzNS45LDAuNUwzNi4yLDB6Ii8+DQoJCTxwYXRoIGlkPSJhMjMxYjk3ZC1iNTYwLTRkZjgtYjE0OC03NDVjZWE4ZGE5NjhfMDAwMDAxNzQ1ODE4NDAxNDIwMzc2OTU3MjAwMDAwMDU4NjM1MTY1NjI2MzkxNjgzODhfIiBjbGFzcz0ic3QxIiBkPSJNMzYuMiwwaDEzNA0KCQkJYzUuNiwwLDEwLjIsNC41LDEwLjIsMTAuMnYxMzAuNWwwLDBIMzYuMmwwLDBWMEwzNi4yLDB6Ii8+DQoJCTxwb2x5Z29uIGlkPSJiZDIyMTUwNC0xMzVkLTQwOTEtYjFjZi01ZDk3ZGI1YmQxNGFfMDAwMDAxNDM2MDk4MjgwOTI0NTU1ODgxNjAwMDAwMTY1ODQ4OTUyMjAyMzUzMDgxOTJfIiBjbGFzcz0ic3QyIiBwb2ludHM9Ig0KCQkJNS44LDE1OSAzNi4yLDE0MC42IDM2LjIsMCA1LjgsMTguNCAJCSIvPg0KCTwvZz4NCgk8ZyBpZD0iYjFkMzc3MmQtY2VlOC00MTdlLWEyNTEtNTZhODUzZTQ3YjVhXzAwMDAwMTM0MjUxOTcxODE1NjEzNjczMDkwMDAwMDA0MzE4NDQ1MzU5NzAyODEwNTI1XyI+DQoJCTxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik05NSwxNTQuNVYxODRoLTd2LTE5LjFsLTQuOSwxOXYwaC03bC01LjItMTkuOFYxODRoLTYuM3YtMjkuNWg5LjNsNS45LDIzLjdsNi4yLTIzLjZsMC0wLjFMOTUsMTU0LjV6Ii8+DQoJCTxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMTYuNiwxNzcuNmgtOC45bC0xLjYsNi41aC03LjNsOC40LTI5LjVoOS44bDguOSwyOS41aC03LjVMMTE2LjYsMTc3LjZ6IE0xMTIuMSwxNTkuM2wtMywxMi43aDYuMQ0KCQkJTDExMi4xLDE1OS4zeiIvPg0KCQk8cGF0aCBjbGFzcz0ic3QzIiBkPSJNMTU1LjksMTg0aC04LjNsLTUuNy0xMS4xbC01LjgsMTEuMUgxMjhsOS4zLTE1LjZsLTguNC0xMy45aDguMWw1LDkuNGgwbDUuMS05LjRoNy44bC04LjQsMTMuM0wxNTUuOSwxODR6Ig0KCQkJLz4NCgk8L2c+DQoJPGcgaWQ9ImI0YWM0MmRkLTE3NTUtNDZjZi04ZTMxLThmMTU5M2FiNDg4Ml8wMDAwMDAwMDIxODM2ODg2MzI3MTgyMTgxMDAwMDAxNTQ5ODA4MzQwMjAyMzY3ODkwMF8iPg0KCQk8cGF0aCBjbGFzcz0ic3QzIiBkPSJNNzYuOCw4OC4yaDE4LjNjMC42LDQuNywzLjgsOS4xLDExLjYsOS4xYzYuOCwwLDExLjItMy4yLDExLjItMTAuMnYtMi4zYzAtOC41LTguNS05LjktMTQtOS45aC02di0xM2g2DQoJCQljNS42LDAsMTEuMi0xLjgsMTEuMi04LjJWNTFjMC01LjEtMy41LTcuNy05LjEtNy43Yy02LjYsMC05LjYsNC4xLTEwLDlINzcuN2MwLjYtMTEuOSwxMC45LTIyLjYsMjkuNC0yMi42DQoJCQljMTUuOCwwLDI3LjIsOCwyNy4yLDE5LjV2NC4yYzAsNi42LTYuMiwxMi4yLTEzLjksMTRjNy43LDEuMywxNi45LDYuNiwxNi45LDE2Ljd2NS4yYzAsMTIuNi0xMi42LDIxLjgtMjkuNiwyMS44DQoJCQlDODUuOCwxMTEuMiw3OCw5OS43LDc2LjgsODguMnoiLz4NCgk8L2c+DQo8L2c+DQo8L3N2Zz4NCg==&logoColor=white&labelColor=BDF4FA)]()
 <br>
 
-## And here there are some of the games that I usually play to in my spare time:
 
-<table style="width:100%">
-  <tr>
-  <td>
-	<a href="https://www.leagueoflegends.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
-	</a>
-	</td>
-  <td>
-	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
-	</a>
-	</td>
-  </tr>
-  <tr>
-  <td>
-	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
-	</a>
-	</td>
-	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
-	</a>
-	</td>
-	</td>
-    </tr>
-    <tr>
-    <td>
-	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
-	</a>
-	</td>
-	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
-	</a>
   </tr>
 </table>
