@@ -1,11 +1,10 @@
 # Hey, my name is Regina ☆
 ### I'm a young graphic designer & 3D artist based in Barcelona. I studied press design at Escola Massana, and I'm currently studying 3D design on CEV Barcelona https://reginafausbts3dv.myportfolio.com/regina-faus.
 
-[![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
+
 ![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
-[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
+[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)]([https://www.instagram.com](https://www.instagram.com/faus3d/))
 
 ## Here are some of the softwares that I know:
 
