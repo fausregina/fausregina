@@ -7,6 +7,12 @@
 ![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
 [![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com/faus3d/)
 
+
+
+https://github.com/fausregina/fausregina/assets/149699937/304403aa-cd1b-48ee-b111-b63b02a7e7ef
+
+
+
 ## Here are some of the softwares that I know:
 
 
@@ -38,6 +44,9 @@
 <br>
 [![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
 <br>
+
+
+https://reginafausbts3dv.myportfolio.com/regina-faus
 
 ![image](https://github.com/fausregina/fausregina/assets/149699937/cb4886cc-e0c5-4f8e-b4a0-d94a842908da)
 ![image](https://github.com/fausregina/fausregina/assets/149699937/0f93ed4d-b0c6-4a28-8f1d-7212f732f78d)
